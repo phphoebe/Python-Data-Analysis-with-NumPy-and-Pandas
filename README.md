@@ -57,7 +57,7 @@ I completed below setup instead of using Anaconda (course instruction):
 * register the new virtual env with Jupyter so that you can use it within JupyterLab
 
   ```
-  python3 -m ipykernel install --name =‘maven-python‘ --user
+  python3 -m ipykernel install --user --name=‘maven-python‘ 
   ```
   
 Now open an existing/create a new `.ipynb` file in VS Code and select the `maven-python` Kernel to use
