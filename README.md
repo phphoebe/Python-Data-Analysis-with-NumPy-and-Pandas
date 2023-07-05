@@ -56,6 +56,7 @@ I completed below setup instead of using Anaconda (course instruction):
   pip install pandas
   pip install openpyxl
   pip install matplotlib
+  pip install seaborn
   ```
   
 * register the new virtual env with Jupyter so that you can use it within JupyterLab
