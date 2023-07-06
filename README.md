@@ -67,3 +67,5 @@ I completed below setup instead of using Anaconda (course instruction):
   ```
   
 Now open an existing/create a new `.ipynb` file in VS Code and select the `maven-python` Kernel to use
+ 
+<img src="images/z-certificate.png" width=80% height=80%>
