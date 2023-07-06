@@ -14,7 +14,7 @@ The course covers NumPy & Pandas for Data Science, Data Analysis & Business Inte
 _Act as a newly hired Data Analyst for **Maven MegaMart**, a multinational corporation that operates a chain of retail and grocery stores._
 
 * [Mid-Course Project - Maven Acquisition Target Data](notebooks/section06_midcourse_project.ipynb)
-* Final Project - Maven Acquisition Target Data
+* [Final Project - Maven Acquisition Target Data](notebooks/section10_final_project.ipynb)
 
 They recently received a sample of data from a new retailer they're looking to acquire, and they need you to identify and deliver key insights about their sales history. 
 
